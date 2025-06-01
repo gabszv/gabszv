@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Vidal Oliveira and I'm a Backend Developer & Database Enthusiast from Recife, Brazil.</h2>
+<h2 align="left">Olá</h2>
 
 ###
 
