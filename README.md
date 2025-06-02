@@ -66,4 +66,4 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabszv/gabszv/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabszv/gabszv/output/github-contribution-grid-snake.svg">
 </picture>
-fs
+
